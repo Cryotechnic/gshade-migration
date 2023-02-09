@@ -12,6 +12,10 @@ This Wiki is built with the intention of helping people who are running into iss
 ## Contributing
 Contributions are made on a voluntary basis. Currently, the only person working on the project is me ([CryoTechnic](https://github.com/CryoTechnic))! Should you feel like there is missing information, please do not hesitate to create a [Pull Request](https://github.com/Cryotechnic/gshade-migration/pulls) on GitHub to contribute! This project is licensed under [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/).
 
+!!!warning
+### **Disclaimer**
+I (and the other people working on this project), are in *no way*, liable for any of the modifications you choose to apply to your shaders. <br>By using this knowledgebase, you are actively tinkering with ReShade shaders, which could produce undesired behaviour on how your game looks as well as how it performs. <br>**This is by no means a definitive guide** and is subject to change. We are all passionate about this project and do our best to keep it up-to-date, but at the end of the day, ***we have lives too***. Please don't harass or spam anyone to add a feature just because you feel entitled to it :))
+!!!
 ## Sections
 This knowledgebase will ideally contain, in the not-so-distant future, by-preset sections, allowing users to easily navigate through all the pages by searching for Tags or keywords inside a given page.
 
