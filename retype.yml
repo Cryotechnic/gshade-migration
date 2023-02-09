@@ -1,0 +1,12 @@
+input: .
+output: .retype
+url: https://cryotechnic.github.io/gshade-migration/
+branding:
+  title: GShade Migration
+  label: Docs
+links:
+- text: Home
+  link: https://cryotechnic.github.io/gshade-migration/
+  icon: home
+footer:
+  copyright: "&copy; Copyright CryoTechnic {{ year }}. All rights reserved."
