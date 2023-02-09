@@ -1,0 +1,21 @@
+
+name: Retype Docs Deployment
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: retypeapp/action-build@v2
+
+      - uses: retypeapp/action-github-pages@v2
+        with:
+          branch: docs
+          update-branch: true
