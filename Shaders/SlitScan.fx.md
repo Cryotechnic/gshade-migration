@@ -1,6 +1,6 @@
 ---
 icon: info
-tags: [mmcdof]
+tags: [ss]
 ---
 ## Shader Information
 This shader implements a specific Slit rendering method to ReShade, which may or may not make your game look better, depending on your taste.
@@ -11,6 +11,6 @@ This shader implements a specific Slit rendering method to ReShade, which may or
 !!!
 ## Status
 !!!success
-Fixed! Updated file available: [!file](https://cdn.discordapp.com/attachments/1072509163458007141/1072509481201709197/SlitScan.fx)
-Fix: Corrupted file required a redownload. Should the above link no longer work, please re-download the shaders package or the specific shader from the author.
+**Fixed**! Updated file available: [!file](https://cdn.discordapp.com/attachments/1072509163458007141/1072509481201709197/SlitScan.fx)
+**Fix**: Corrupted file required a redownload. Should the above link no longer work, please re-download the shaders package or the specific shader from the author.
 !!!

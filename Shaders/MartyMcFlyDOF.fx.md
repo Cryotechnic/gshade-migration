@@ -11,6 +11,6 @@ This shader provides advanced DoF functionality used inside EspressoGlow's shade
 !!!
 ## Status
 !!!success
-Fixed! Updated file available: [!file](https://cdn.discordapp.com/attachments/1072507432464547870/1072528908936826951/MartyMcFlyDOF.fx)
-Fix: Corrupted file required a redownload. Should the above link no longer work, please re-download the shaders package or the specific shader from the author.
+**Fixed**! Updated file available: [!file](https://cdn.discordapp.com/attachments/1072507432464547870/1072528908936826951/MartyMcFlyDOF.fx)
+**Fix**: Corrupted file required a redownload. Should the above link no longer work, please re-download the shaders package or the specific shader from the author.
 !!!
