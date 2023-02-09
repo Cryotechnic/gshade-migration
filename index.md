@@ -4,7 +4,7 @@ icon: star
 ![](/static/headers/guides_formatting.png)
 
 # Welcome
-If you've landed on this page, you were probably directed from the Shader Porting Project [Discord Server](). Welcome \o/
+If you've landed on this page, you were probably directed from the Shader Porting Project <a href="https://discord.gg/9kQTCB5Xwh" target="_blank" rel="noopener">Discord Server</a>. Welcome \o/
 
 !!!
 This Wiki is built with the intention of helping people who are running into issues for migrating from GShade to [ReShade](reshade.me). This is run on a volunteer basis and is by no means a comprehensive guide on *all* the issues that people encounter. Rather, this is meant as a **one-stop shop** for commonly encountered Shader compilation errors, as well as their solution(s) (if any are found).
