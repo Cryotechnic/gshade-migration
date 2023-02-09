@@ -1,12 +1,12 @@
 ---
 icon: arrow-up
 tags: [ars]
-order: 1
+order: 101
 ---
 # How To Move To ReShade From GShade
 *(a guide by [rika](https://twitter.com/lostkagamine) (@lostkagamine). tested, should work fine.)*
 
-([Korean version / 한국어 버전](https://gist.github.com/hibiyasleep/142bfe45c85824d255ad098a63bd8780))
+[Korean version / 한국어 버전](https://gist.github.com/hibiyasleep/142bfe45c85824d255ad098a63bd8780)
 
 **If you are having issues like the screen turning black, read the mini-FAQ at the bottom of this document!**
 
