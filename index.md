@@ -14,7 +14,7 @@ Contributions are made on a voluntary basis. Currently, the only person working 
 
 !!!warning
 ### **Disclaimer**
-I (and the other people working on this project), are in *no way*, liable for any of the modifications you choose to apply to your shaders. <br>By using this knowledgebase, you are actively tinkering with ReShade shaders, which could produce undesired behaviour on how your game looks as well as how it performs. <br>**This is by no means a definitive guide** and is subject to change. We are all passionate about this project and do our best to keep it up-to-date, but at the end of the day, ***we have lives too***. Please don't harass or spam anyone to add a feature just because you feel entitled to it :))
+I (and the other people working on this project), are in *no way*, liable for any of the modifications you choose to apply to your shaders. <br><br>By using this knowledgebase, you are actively tinkering with ReShade shaders, which could produce undesired behaviour on how your game looks as well as how it performs.<br><br>**This is by no means a definitive guide** and is subject to change. We are all passionate about this project and do our best to keep it up-to-date, but at the end of the day, ***we have lives too***. Please don't harass or spam anyone to add a feature just because you feel entitled to it :))
 !!!
 ## Sections
 This knowledgebase will ideally contain, in the not-so-distant future, by-preset sections, allowing users to easily navigate through all the pages by searching for Tags or keywords inside a given page.
