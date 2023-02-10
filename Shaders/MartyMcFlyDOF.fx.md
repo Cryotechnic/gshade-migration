@@ -3,7 +3,7 @@ icon: info
 tags: [mmcdof]
 ---
 ## Shader Information
-This shader provides advanced DoF functionality used inside EspressoGlow's shaders.
+This shader provides advanced DoF functionality used inside EspressoGlow's (and more) shader presets.
 
 ## Error
 !!!danger
