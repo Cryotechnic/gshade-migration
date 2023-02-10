@@ -19,6 +19,14 @@ I (and the other people working on this project), are in *no way*, liable for an
 ## Sections
 This knowledgebase will ideally contain, in the not-so-distant future, by-preset sections, allowing users to easily navigate through all the pages by searching for Tags or keywords inside a given page.
 
+## GShade Compatibility
+!!!
+### **USE THIS IF YOU REALLY NEED SOME OF YOUR PRESETS TO LOOK AS BEFORE UNTIL THEY GET UPDATED**
+The guide linked below will allow you to run your presets using GShade. This is **unsupported** and could potentially introduce unwanted behaviour to your FFXIV installation. ***Use at your own risk***. While this has been tested and is proven to work, GShade has been discontinued, and so, over time, this method may no longer work or simply just break your game. You have been warned!
+
+[Use GShade for Presets](/guides/using_gshade/)
+!!!
+
 ## Questions
 Should you have any questions regarding the contents or the credibility of these fixes, please visit Rika's Shader Porting Project Discord Server.
 
